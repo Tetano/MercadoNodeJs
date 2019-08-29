@@ -1,0 +1,24 @@
+{
+  "name": "mercadonode",
+  "version": "1.0.0",
+  "description": "mercadoweb",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^12.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tetano/MercadoNodeJs.git"
+  },
+  "author": "Vinicius",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tetano/MercadoNodeJs/issues"
+  },
+  "homepage": "https://github.com/Tetano/MercadoNodeJs#readme"
+}
